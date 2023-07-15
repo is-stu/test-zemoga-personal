@@ -5,7 +5,7 @@
 - Vite
 
 ##### Despliegue con vercel
-Esta aplicacion basica esta desplegada en vercel en el siguiente link => [pagina desplegada](https://test-zemoga-with-template.vercel.app/)
+Esta aplicacion basica esta desplegada en vercel en el siguiente link => [pagina desplegada](https://test-zemoga-personal-oe6j.vercel.app/)
 
 ##### Correr en local
 Para correr en local, lo unico que necesitas hacer es
