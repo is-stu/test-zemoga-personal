@@ -84,7 +84,7 @@ export const PersonCard = ({ person, updatePerson }) => {
           <Row>
             <Col className='d-flex justify-content-center'>
               <Button variant='outline-success' onClick={handleThumbsUp}>
-                {updatePerson.loading
+                {updatePerson?.loading
                   ? (
                     <Spinner />
                     )
@@ -95,7 +95,7 @@ export const PersonCard = ({ person, updatePerson }) => {
             </Col>
             <Col className='d-flex justify-content-center'>
               <Button variant='outline-danger' onClick={handleThumbsDown}>
-                {updatePerson.loading
+                {updatePerson?.loading
                   ? (
                     <Spinner />
                     )
